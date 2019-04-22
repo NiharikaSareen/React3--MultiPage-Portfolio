@@ -1,6 +1,5 @@
-# React3--MultiPage-Portfolio
+# React3-MultiPage-Portfolio
 
-https://github.com/NiharikaSareen/React3--MultiPage-Portfolio/blob/master/React-Portfolio.gif
 
 ## Getting Started
 
